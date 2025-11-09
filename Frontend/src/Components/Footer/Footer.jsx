@@ -9,11 +9,10 @@ const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
-            repellat nostrum illum blanditiis aperiam vitae minus corrupti
-            fugiat quaerat laudantium rerum deserunt maxime pariatur sed eius,
-            ipsam sunt aliquam accusamus tempore autem animi omnis odio. Culpa
-            rem a quisquam nam.
+            Discover a wide range of dishes made for every mood and moment.
+            Whether you’re looking for something spicy, sweet, or healthy — our
+            menu has it all. Each recipe is carefully crafted by our chefs to
+            bring you the perfect balance of taste, freshness, and joy.
           </p>
 
           <div className="footer-social-icons">
